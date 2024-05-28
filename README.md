@@ -6,7 +6,7 @@ Welcome to the Age Calculator project! This project was developed during my web 
 
 - **User-Friendly Interface**: A clean and straightforward interface that makes it easy for users to input their date of birth.
 - **Accurate Age Calculation**: Calculates the exact age in years, months, and days based on the input date of birth.
-- **Additional Results**: Provides additional information such as weeks, days, hours, minutes, and seconds old based on the input date of birth.
+- **Additional Results**: Provides additional information such as weeks, days, hours, minutes, and seconds old, based on the input date of birth.
 
 ## Usage
 
@@ -26,5 +26,5 @@ To use the Age Calculator, simply input the date, month, and year of your birth 
 
 ## Developed By
 
-This Age Calculator project was created by [Abhinash Pritiraj].
+Abhinash Pritiraj created this Age Calculator project.
 
